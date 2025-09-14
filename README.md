@@ -92,4 +92,4 @@ The Facebook campaign outperforms AdWords in driving clicks, conversions, and ov
 
 ### Demos / Screenshot
 
-ROAS Preview (https://github.com/Anushka-dabas/Comparative-Marketing-Campaign-Analysis-Facebook-vs-AdWords/blob/main/snapshot%20of%20ROAS.png)
+![ROAS Preview].(https://github.com/Anushka-dabas/Comparative-Marketing-Campaign-Analysis-Facebook-vs-AdWords/blob/main/snapshot%20of%20ROAS.png)
