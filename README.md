@@ -90,3 +90,6 @@ The Facebook campaign outperforms AdWords in driving clicks, conversions, and ov
 2. **Investigate AdWords Performance:** Perform deeper audits or A/B tests to refine AdWords campaigns and optimize targeting.  
 3. **Monitor Metrics Regularly:** Track conversion rates, cost per click, and ROAS monthly, allowing for adjustments based on seasonal trends or performance changes.
 
+### Demos / Screenshot
+
+ROAS Preview (https://github.com/Anushka-dabas/Comparative-Marketing-Campaign-Analysis-Facebook-vs-AdWords/blob/main/snapshot%20of%20ROAS.png)
